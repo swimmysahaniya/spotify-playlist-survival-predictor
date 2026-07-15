@@ -1,0 +1,4 @@
+best_rank,worst_rank,avg_rank,initial_rank,rank_improvement,rank_range,rank_volatility,avg_daily_rank_change,peak_popularity,avg_popularity,popularity_gap,playlist_entries,days_to_peak,stability_score,Predicted Days
+1,15,7,12,11,14,3.5,0.8,96,91,5,110,8,120,203.45508959291308
+8,30,18,20,12,22,7.2,1.9,84,79,5,55,20,62,196.09935141748804
+20,45,30,40,20,25,12.4,3.4,70,66,4,20,45,18,127.77051945148143

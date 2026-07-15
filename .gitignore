@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Streamlit cache
+.streamlit/
+
+# Model cache
+*.joblib.tmp
+
+*.mov
+*.mp4
+*.avi
